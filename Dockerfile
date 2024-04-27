@@ -14,4 +14,4 @@ RUN pip install -r requirements.txt
 EXPOSE 8080
 
 # Specify the entrypoint script
-ENTRYPOINT ["python", "app/hello-world.py"]
+ENTRYPOINT [", "app/hello-world.py"]
